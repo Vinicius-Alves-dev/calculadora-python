@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 🎀 Calculadora Python 🎀
@@ -18,7 +19,8 @@ Uma calculadora desktop simples, feita com **Python + Tkinter**, com um visual p
   <img src="./assets/screenshot.png" alt="Screenshot da calculadora" width="320"/>
 </div>
 
-> 🎥 **Demonstração em vídeo:** [clique aqui para assistir](./assets/demo.mp4)
+> 🎥 **Demonstração em vídeo:**
+https://github.com/user-attachments/assets/3c92f90e-76ae-4dd0-9162-757006481890
 
 ---
 
@@ -31,7 +33,7 @@ A calculadora realiza as operações matemáticas básicas e foi construída sem
 ## 🚀 Funcionalidades
 
 - ➕ Adição, ➖ Subtração, ✖️ Multiplicação, ➗ Divisão
-- 🔢 Módulo / resto da divisão (`%`)
+- 🔢 resto da divisão (`%`)
 - 🧮 Números decimais (`.`)
 - 🧹 Botão de limpar tela (`C`)
 - 🎨 Interface customizada com paleta de cores própria
